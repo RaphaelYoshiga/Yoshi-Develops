@@ -20,6 +20,9 @@
 - [Sprint 0 - The first user story](https://medium.com/@raphaelyoshiga/if-you-are-not-using-git-you-are-missing-out-f6b6e2f93b6e)
 - [Making deployments a non-event](https://medium.com/@raphaelyoshiga/deployments-shouldnt-be-a-gamble-nor-painful-5760fc899e8f)
 
+## Code quality
+- [Source Making](https://sourcemaking.com/) - Good place to learn Code Smells and design patterns.
+
 ## C#
 - [Everything .NET programmers know about Asynchronous Programming is wrong](https://hanselminutes.com/327/everything-net-programmers-know-about-asynchronous-programming-is-wrong) If you need to learn the Async programming model, that's a great place to start.
 - [LINQ Performance dangers](https://medium.com/@raphaelyoshiga/linq-performance-dangers-6e9757607884)
@@ -37,3 +40,30 @@ The book goes above the technical challenges and shows you how an ideal team str
 
 [**Agile Technical Practices Distilled: A learning journey in technical practices and principles of software design**](https://amzn.to/3hcVVFm) - A complete book for developers with TDD, DDD with code examples.
 The authors of this book know well the London TDD style, so you might be able to skip the Growing Objected-Oriented software and read straight into this oe.
+
+# Learning Algorithms
+
+## Training grounds
+
+- [Coding Game]([https://www.codingame.com/](https://www.codingame.com/)) - Practice coding through gaming, solve puzzles, develop bots and compete with other engineers.
+- [Leet Code]([https://leetcode.com/) - Programming challenges, simple input and outputs. What I like most of this challenges website is that it shows how your algorithm performs, so you can see how other people are doing it.
+- [Hacker Rank](https://www.hackerrank.com/) - Nice programming challenges, useful because many interview tests are through the platform.
+
+## Good learning Resources
+
+-  [**MIT Open Coursewear**](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) - Learn algorithms directly from MIT teachers for free, it's unbeliavable such a good quality content is shared for free.
+
+-  [Jump Game](https://www.youtube.com/watch?v=Zb4eRjuPHbM)
+-  [LRU Cache](https://www.youtube.com/watch?v=NDpwj0VWz1U)
+-  [Bitwise and numbers range](https://www.youtube.com/watch?v=-qrpJykY2gE)
+-  [Subarray sum Equals K](https://www.youtube.com/watch?v=AmlVSNBHzJg&t=459s)
+
+**Bynary Search**
+-  [Construct binary search tree from preoder traversal ](https://www.youtube.com/watch?v=9sw8RRsBw6s)
+-  [Search in Rotated Sorted Array](https://www.youtube.com/watch?v=r6BDI1vAUT4)
+
+**Dynamic Programming**
+
+-  [What is dynamic programming](https://www.youtube.com/watch?v=vYquumk4nWw)
+-  [Largest squares of 1's](https://www.youtube.com/watch?v=FO7VXDfS8Gk)
+-  [Longest Subsequence of strings](https://www.youtube.com/watch?v=ASoaQq66foQ)
