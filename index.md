@@ -1,3 +1,4 @@
+# Blog Posts
 ## TDD/BDD
 
 - [Why TDD will change your developer life?](https://medium.com/@raphaelyoshiga/why-tdd-will-change-your-developer-life-b0bf234e15ac)
@@ -40,6 +41,11 @@ The book goes above the technical challenges and shows you how an ideal team str
 
 [**Agile Technical Practices Distilled: A learning journey in technical practices and principles of software design**](https://amzn.to/3hcVVFm) - A complete book for developers with TDD, DDD with code examples.
 The authors of this book know well the London TDD style, so you might be able to skip the Growing Objected-Oriented software and read straight into this oe.
+
+# Security
+
+- [Hack The Box](https://www.hackthebox.eu/) - Learning how to go in the offense is the best way to learn how to defend, on this website they expose you virtual machines that you need to hack your way in. You need to hack your way in just to get a login =D. 
+- [Plural Sight](https://www.pluralsight.com/) - You can learn everything for IT here really, but they do have good courses on security for [example](https://www.pluralsight.com/courses/hack-yourself-first)
 
 # Learning Algorithms
 
