@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## TDD/BDD
 
-You can use the [editor on GitHub](https://github.com/RaphaelYoshiga/Yoshi-Develops/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- [Why TDD will change your developer life?](https://medium.com/@raphaelyoshiga/why-tdd-will-change-your-developer-life-b0bf234e15ac)
+- [Practical TDD 1](https://medium.com/@raphaelyoshiga/practical-tdd-first-lesson-1c689fffe4ec)
+- [Practical TDD 2](https://medium.com/@raphaelyoshiga/practical-tdd-lesson-2-d9d48283b0c4)
+- [Practical TDD 3](https://medium.com/@raphaelyoshiga/practical-tdd-3-9a76b3e045d8)
+- [Practical TDD 4 - Using Specflow with .net core](https://itnext.io/acceptance-test-driven-development-in-net-core-with-specflow-dcb17fb7a893)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
