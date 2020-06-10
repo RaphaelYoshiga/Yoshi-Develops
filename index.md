@@ -47,6 +47,19 @@ The authors of this book know well the London TDD style, so you might be able to
 - [Hack The Box](https://www.hackthebox.eu/) - Learning how to go in the offense is the best way to learn how to defend, on this website they expose you virtual machines that you need to hack your way in. You need to hack your way in just to get a login =D. 
 - [Plural Sight](https://www.pluralsight.com/) - You can learn everything for IT here really, but they do have good courses on security for [example](https://www.pluralsight.com/courses/hack-yourself-first)
 
+# Performance profiling
+
+Do you have a performance issue you need to solve? You better of getting to the root of it, with performance profiler you can see how long each line/method is taking to execute, so you can narrow down to the bottlenecks.
+
+## C# Performance profiling
+
+- [Ants Profiler](https://www.red-gate.com/products/dotnet-development/ants-performance-profiler/)
+- [DotTrace](https://www.jetbrains.com/profiler/)
+- [Visual Studio Performance profiler](https://docs.microsoft.com/en-us/visualstudio/profiling/?view=vs-2019)
+
+## Front end Performance profiling
+- [GT Metrix](https://gtmetrix.com/) - Client side performance profiling to ensure your website is providing a good user experience
+
 # Learning Algorithms
 
 ## Training grounds
