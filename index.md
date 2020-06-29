@@ -1,11 +1,11 @@
 # Blog Posts
 ## TDD/BDD
-
 - [Why TDD will change your developer life?](https://medium.com/@raphaelyoshiga/why-tdd-will-change-your-developer-life-b0bf234e15ac)
 - [Practical TDD 1](https://medium.com/@raphaelyoshiga/practical-tdd-first-lesson-1c689fffe4ec)
 - [Practical TDD 2](https://medium.com/@raphaelyoshiga/practical-tdd-lesson-2-d9d48283b0c4)
 - [Practical TDD 3](https://medium.com/@raphaelyoshiga/practical-tdd-3-9a76b3e045d8)
 - [Practical TDD 4 - Using Specflow with .net core](https://itnext.io/acceptance-test-driven-development-in-net-core-with-specflow-dcb17fb7a893)
+- [Practical TDD 5 - Extending legacy applications](https://itnext.io/tdd-lesson-5-extending-legacy-code-b0c507ee989e)
 
 ## Azure
 - [Azure Cosmos DB costs down by 80%](https://itnext.io/azure-cosmos-db-costs-down-by-up-to-80-da9e0028049)
@@ -86,3 +86,12 @@ Do you have a performance issue you need to solve? You better of getting to the 
 -  [What is dynamic programming](https://www.youtube.com/watch?v=vYquumk4nWw)
 -  [Largest squares of 1's](https://www.youtube.com/watch?v=FO7VXDfS8Gk)
 -  [Longest Subsequence of strings](https://www.youtube.com/watch?v=ASoaQq66foQ)
+
+# General tools
+- [Draw.io](https://draw.io) - My choice for drawing diagrams
+
+# Tech Conference channels
+-  [GOTO](https://www.youtube.com/user/GotoConferences) - Awesome talks
+	 - [Lizz Keough - Leadership at Every Level](https://www.youtube.com/watch?v=g5daBsy3ZEA)
+	 - [Martin Fowler - Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA&t=5s)
+-  [Lead dev](https://www.youtube.com/channel/UCmM3eCpmWKLJj2PDW_jdGkg)
