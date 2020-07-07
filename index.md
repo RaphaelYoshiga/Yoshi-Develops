@@ -88,8 +88,8 @@ Do you have a performance issue you need to solve? You better of getting to the 
 -  [Longest Subsequence of strings](https://www.youtube.com/watch?v=ASoaQq66foQ)
 
 # General tools
-- [Draw.io](https://draw.io) - My choice for drawing diagrams
-
+- [Draw.io](https://draw.io) - My choice for drawing diagrams.
+- [Gravit.io](https://www.designer.io/en/) - Photoshop in browser, useful for editing vectors for example.
 # Tech Conference channels
 -  [GOTO](https://www.youtube.com/user/GotoConferences) - Awesome talks
 	 - [Lizz Keough - Leadership at Every Level](https://www.youtube.com/watch?v=g5daBsy3ZEA)
