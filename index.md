@@ -27,9 +27,9 @@
 ## C#
 - [Everything .NET programmers know about Asynchronous Programming is wrong](https://hanselminutes.com/327/everything-net-programmers-know-about-asynchronous-programming-is-wrong) If you need to learn the Async programming model, that's a great place to start.
 - [LINQ Performance dangers](https://medium.com/@raphaelyoshiga/linq-performance-dangers-6e9757607884)
+- [Performance best practices in C#](https://medium.com/@kevingosse/performance-best-practices-in-c-b85a47bdd93a)
 
-# Books recommendations
-  
+# Books recommendations 
 [**Clean Code: A Handbook of Agile Software Craftsmanship Robert C. Martin**](https://amzn.to/2UqxavM) - Excellent book for giving you what it means to be a professional developer
 I would recommend for you to read after you have 1-2 years of professional development, so the book can correct some bad habits developers tend to pick up, for example commenting code.
 
