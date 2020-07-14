@@ -1,26 +1,35 @@
 
 This index is split between those main categories:
+- [Performance](#performance)
+- [Security](#security)
+- [TDD - Test driven development](#tdd---test-driven-development)
+- [Azure/DevOps](#azuredevops)
+- [GIT](#git)
+- [Code quality](#code-quality)
+- [Learning Algorithms](#learning-algorithms)
+- [General tools / Sites](#general-tools--sites)
+- [Tech Conference channels](#tech-conference-channels)
 
 # Performance
-Do you have a performance issue you need to solve? You better of getting to the root of it, with performance profilers you can see how long each line/method is taking to execute, so you can narrow down to the bottlenecks.
-
-### C# Performance profiling
--  [Ants Profiler](https://www.red-gate.com/products/dotnet-development/ants-performance-profiler/)
--  [DotTrace](https://www.jetbrains.com/profiler/)
--  [Visual Studio Performance profiler](https://docs.microsoft.com/en-us/visualstudio/profiling/?view=vs-2019)
-
-### Front end Performance profiling
--  [GT Metrix](https://gtmetrix.com/) - Client side performance profiling to ensure your website is providing a good user experience.
-- 
 ### C# Performance tricks
 -  [Everything .NET programmers know about Asynchronous Programming is wrong](https://hanselminutes.com/327/everything-net-programmers-know-about-asynchronous-programming-is-wrong) If you need to learn the Async programming model, that's a great place to start.
--  [LINQ Performance dangers](https://medium.com/@raphaelyoshiga/linq-performance-dangers-6e9757607884)
+-  [LINQ Performance dangers](https://medium.com/@raphaelyoshiga/linq-performance-dangers-6e9757607884) - How LINQ can hide bottlenecks.
 -  [Performance best practices in C#](https://medium.com/@kevingosse/performance-best-practices-in-c-b85a47bdd93a)
 
 ### Performance Consultancy cases
 - [Untangling SQL deadlocks](https://itnext.io/untangling-sql-deadlocks-consultancy-db5c83de5a7e)
 - [Removing bottlenecks in a batch job with SQL knowledge](https://itnext.io/performance-consultancy-slow-batch-job-ec530baed843)
   
+### Performance profilers
+Do you have a performance issue you need to solve? You better of getting to the root of it, with performance profilers you can see how long each line/method is taking to execute, so you can narrow down to the bottlenecks.
+
+- **C# Performance profiling**
+-  - [Ants Profiler](https://www.red-gate.com/products/dotnet-development/ants-performance-profiler/)
+-  - [DotTrace](https://www.jetbrains.com/profiler/)
+-  - [Visual Studio Performance profiler](https://docs.microsoft.com/en-us/visualstudio/profiling/?view=vs-2019)
+- **Front end Performance profiling**
+-  - [GT Metrix](https://gtmetrix.com/) - Client side performance profiling to ensure your website is providing a good user experience.
+
 # Security
 -  [Hack The Box](https://www.hackthebox.eu/) - Learning how to go in the offense is the best way to learn how to defend, on this website they expose you virtual machines that you need to hack your way in. You need to hack your way in just to get a login =D.
 -  [Plural Sight](https://www.pluralsight.com/) - You can learn everything for IT here really, but they do have good courses on security for [example](https://www.pluralsight.com/courses/hack-yourself-first)
@@ -52,13 +61,13 @@ The authors of this book know well the London TDD style, so you might be able to
 -  [Sprint 0 - The first user story](https://medium.com/@raphaelyoshiga/if-you-are-not-using-git-you-are-missing-out-f6b6e2f93b6e)
 -  [Making deployments a non-event](https://medium.com/@raphaelyoshiga/deployments-shouldnt-be-a-gamble-nor-painful-5760fc899e8f)
 
-### Boooks
+### Books
 [**Building microservices by Sam Newman**](https://amzn.to/3f7aYid) - Awesome book for understanding the advantages and disadvantages of microservices.
 The book goes above the technical challenges and shows you how an ideal team structure needs to be for that architecture style to work effectively.
 
 # GIT
 
--  [Transitioning from TFS into GIT](https://medium.com/@raphaelyoshiga/if-you-are-not-using-git-you-are-missing-out-f6b6e2f93b6e)
+-  [Transitioning from TFS into GIT](https://medium.com/@raphaelyoshiga/if-you-are-not-using-git-you-are-missing-out-f6b6e2f93b6e) - Moving from a TFS/Team Explorer mindset into a Git/Command line hacker.
 -  [GitFlow for agile teams is a no-no](https://medium.com/@raphaelyoshiga/git-flow-for-agile-teams-is-a-no-no-d2752b7c46b) - How GitFlow isn't the best suited branching strategy for teams that are releasing often.
 
 # Code quality
