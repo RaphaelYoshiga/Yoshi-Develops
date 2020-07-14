@@ -111,5 +111,6 @@ I would recommend for you to read after you have 1-2 years of professional devel
 
 -  [GOTO](https://www.youtube.com/user/GotoConferences) - Awesome talks
 -  - [Lizz Keough - Leadership at Every Level](https://www.youtube.com/watch?v=g5daBsy3ZEA)
--  -[Martin Fowler - Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA&t=5s)
+-  - [Martin Fowler - Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA&t=5s)
 -  [Lead dev](https://www.youtube.com/channel/UCmM3eCpmWKLJj2PDW_jdGkg)
+- - [Talk on how the Eifel Tower was built](https://www.youtube.com/watch?v=RNGZTkM2xOU&list=PLBzScQzZ83I9uW36NnjX6Pe5P63EpEk_q&index=14) - Lessons to be learned fromGustave Eiffel. Nice story that you can also learn things from.
