@@ -67,12 +67,13 @@ The book goes above the technical challenges and shows you how an ideal team str
 
 # GIT
 
--  [Transitioning from TFS into GIT](https://medium.com/@raphaelyoshiga/if-you-are-not-using-git-you-are-missing-out-f6b6e2f93b6e) - Moving from a TFS/Team Explorer mindset into a Git/Command line hacker.
--  [GitFlow for agile teams is a no-no](https://medium.com/@raphaelyoshiga/git-flow-for-agile-teams-is-a-no-no-d2752b7c46b) - How GitFlow isn't the best suited branching strategy for teams that are releasing often.
+- [Transitioning from TFS into GIT](https://medium.com/@raphaelyoshiga/if-you-are-not-using-git-you-are-missing-out-f6b6e2f93b6e) - Moving from a TFS/Team Explorer mindset into a Git/Command line hacker.
+- [GitFlow for agile teams is a no-no](https://medium.com/@raphaelyoshiga/git-flow-for-agile-teams-is-a-no-no-d2752b7c46b) - How GitFlow isn't the best suited branching strategy for teams that are releasing often.
+- [Effective pull requests guide](https://www.braintreepayments.com/blog/effective-pull-requests-a-guide/)
 
 # Code quality
 
--  [Source Making](https://sourcemaking.com/) - Good place to learn Code Smells and design patterns.
+- [Source Making](https://sourcemaking.com/) - Good place to learn Code Smells and design patterns.
 - [SOLID Principles explained using pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
 
 ### Books
@@ -104,8 +105,13 @@ I would recommend for you to read after you have 1-2 years of professional devel
   
 # General tools / Sites
 - [PluralSight](https://www.pluralsight.com/) - It's like netflix, but for IT tech courses. You can get high quality content in anything you can think of, security, performance, architecture, containers, etc.
--  [Draw.io](https://draw.io) - My choice for drawing diagrams.
--  [Gravit.io](https://www.designer.io/en/) - Photoshop in browser, useful for editing vectors for example.
+- [Draw.io](https://draw.io) - My choice for drawing diagrams.
+- [Gravit.io](https://www.designer.io/en/) - Photoshop in browser, useful for editing vectors for example.
+
+### Computer science open source courses
+
+- [Open Source Society University](https://github.com/ossu/computer-science)
+- [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
 
 # Tech Conference channels
 
