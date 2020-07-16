@@ -1,14 +1,25 @@
 
 This index is split between those main categories:
 - [Performance](#performance)
+		- [C# Performance tricks](#c-performance-tricks)
+		- [Performance Consultancy cases](#performance-consultancy-cases)
+		- [Performance profilers](#performance-profilers)
 - [Security](#security)
 - [TDD - Test driven development](#tdd---test-driven-development)
+	- [Raphael's TDD series](#raphaels-tdd-series)
+		- [Books](#books)
 - [Azure/DevOps](#azuredevops)
+		- [Books](#books-1)
 - [GIT](#git)
 - [Code quality](#code-quality)
+		- [Books](#books-2)
 - [Learning Algorithms](#learning-algorithms)
+		- [Training grounds](#training-grounds)
+		- [Good learning Resources](#good-learning-resources)
 - [General tools / Sites](#general-tools--sites)
+		- [Computer science open source courses](#computer-science-open-source-courses)
 - [Tech Conference channels](#tech-conference-channels)
+- [Kubernetes](#kubernetes)
 
 # Performance
 ### C# Performance tricks
@@ -107,6 +118,7 @@ I would recommend for you to read after you have 1-2 years of professional devel
 - [PluralSight](https://www.pluralsight.com/) - It's like netflix, but for IT tech courses. You can get high quality content in anything you can think of, security, performance, architecture, containers, etc.
 - [Draw.io](https://draw.io) - My choice for drawing diagrams.
 - [Gravit.io](https://www.designer.io/en/) - Photoshop in browser, useful for editing vectors for example.
+- [Stackshare.io](https://stackshare.io) - Discover which tech stack big companies are using.
 
 ### Computer science open source courses
 
@@ -120,3 +132,11 @@ I would recommend for you to read after you have 1-2 years of professional devel
 -  - [Martin Fowler - Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA&t=5s)
 -  [Lead dev](https://www.youtube.com/channel/UCmM3eCpmWKLJj2PDW_jdGkg)
 - - [Talk on how the Eifel Tower was built](https://www.youtube.com/watch?v=RNGZTkM2xOU&list=PLBzScQzZ83I9uW36NnjX6Pe5P63EpEk_q&index=14) - Lessons to be learned fromGustave Eiffel. Nice story that you can also learn things from.
+
+# Kubernetes
+
+- [Kata Code interactive course](https://www.katacoda.com/courses/kubernetes/kubectl-run-containers)
+- [Operator hub](https://operatorhub.io)
+- [Skaffold](https://skaffold.dev/)
+- [Helm package manger for kubernetes](https://helm.sh/)
+- [Draft](https://github.com/Azure/draft)
