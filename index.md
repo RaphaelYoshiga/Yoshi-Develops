@@ -1,23 +1,13 @@
 
 This index is split between those main categories:
 - [Performance](#performance)
-		- [C# Performance tricks](#c-performance-tricks)
-		- [Performance Consultancy cases](#performance-consultancy-cases)
-		- [Performance profilers](#performance-profilers)
 - [Security](#security)
 - [TDD - Test driven development](#tdd---test-driven-development)
-	- [Raphael's TDD series](#raphaels-tdd-series)
-		- [Books](#books)
 - [Azure/DevOps](#azuredevops)
-		- [Books](#books-1)
 - [GIT](#git)
 - [Code quality](#code-quality)
-		- [Books](#books-2)
 - [Learning Algorithms](#learning-algorithms)
-		- [Training grounds](#training-grounds)
-		- [Good learning Resources](#good-learning-resources)
 - [General tools / Sites](#general-tools--sites)
-		- [Computer science open source courses](#computer-science-open-source-courses)
 - [Tech Conference channels](#tech-conference-channels)
 - [Kubernetes](#kubernetes)
 
