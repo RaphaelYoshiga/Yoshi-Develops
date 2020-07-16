@@ -116,6 +116,7 @@ I would recommend for you to read after you have 1-2 years of professional devel
   
 # General tools / Sites
 - [PluralSight](https://www.pluralsight.com/) - It's like netflix, but for IT tech courses. You can get high quality content in anything you can think of, security, performance, architecture, containers, etc.
+- [KataKoda](https://www.katacoda.com/) - Learn new technologies using real environments right in your browser
 - [Draw.io](https://draw.io) - My choice for drawing diagrams.
 - [Gravit.io](https://www.designer.io/en/) - Photoshop in browser, useful for editing vectors for example.
 - [Stackshare.io](https://stackshare.io) - Discover which tech stack big companies are using.
