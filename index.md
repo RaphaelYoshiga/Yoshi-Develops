@@ -10,6 +10,7 @@ This index is split between those main categories:
 - [General tools / Sites](#general-tools--sites)
 - [Tech Conference channels](#tech-conference-channels)
 - [Kubernetes](#kubernetes)
+- [AWS Certification](#aws-certification)
 
 # Performance
 ### C# Performance tricks
@@ -131,3 +132,23 @@ I would recommend for you to read after you have 1-2 years of professional devel
 - [Skaffold](https://skaffold.dev/)
 - [Helm package manger for kubernetes](https://helm.sh/)
 - [Draft](https://github.com/Azure/draft)
+
+### CKAD Certification
+
+I took the CKAD certification recently: https://www.cncf.io/certification/ckad/
+
+The learning steps are simple:
+1. Have a look at the exam requirements
+2. Have a look into the [Youtube video](https://www.youtube.com/watch?v=qA4dNATs5nE), this is what doing the exam feels like.
+3. Do the entire section in Katacoda for kubernetes
+-   - [This](https://www.katacoda.com/courses/kubernetes)
+-   - [And this](https://www.katacoda.com/contino/courses/kubernetes)
+5. Become a kubectl cli master with those exercises
+-   - [Exercises](https://github.com/dgkanatsios/CKAD-exercises)
+6. Sleep well and take the exam.
+   
+- [Youtuber Notes](https://github.com/saaguero/ckad-notes/)
+- [My notes Dump](/ckad-notes-dump.md)
+
+# AWS Certification
+- [12 Free Course - AWS Associate Developer](https://www.youtube.com/watch?v=RrKRN9zRBWs)
